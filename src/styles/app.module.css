@@ -1,0 +1,46 @@
+.imageres {
+  width: 60px;
+  height: 60px;
+}
+.iconpos {
+  position: absolute;
+  top: -9px;
+  right: 0;
+}
+
+.darkborder {
+  border-color: #3e3e4e !important;
+}
+.price {
+  font-size: 22px;
+  line-height: 45px;
+}
+.plan {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.p30 {
+  padding: 30px;
+}
+.blogimage {
+  width: 40px;
+  height: 40px;
+}
+.blogimagesize {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.circlepos {
+  width: 60px;
+  height: 60px;
+  bottom: -30px;
+  right: 30px;
+}
+@media (min-width: 991px) {
+  .item {
+    width: 350px !important;
+    margin-right: 30px;
+  }
+}
